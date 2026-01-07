@@ -1,2 +1,5 @@
 backup
 output.csv
+*apps.googleusercontent.com.json
+.webui_secret_key
+token.json

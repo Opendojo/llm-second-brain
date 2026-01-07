@@ -1,0 +1,1 @@
+Identifier et implémenter des actions concrètes avec l'équipe pour mettre en place le changement basé sur les notes du document connect-2025-02-11.md
